@@ -1,2 +1,2 @@
 # Coursera-test
-test repository for learning
+test repository for submitting assignments
